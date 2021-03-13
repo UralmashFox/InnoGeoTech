@@ -1,2 +1,2 @@
 # InnoGeoTech
-![image alt text](https://youtu.be/Cnky5R2WY5o)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/2SjQx3PZUYA/0.jpg)](http://www.youtube.com/watch?v=2SjQx3PZUYA "Video Title")
